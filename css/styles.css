@@ -94,7 +94,7 @@ p {
 
 .mountain {
   position: relative;
-  bottom: 70px;
+  bottom: 60px;
 }
 
 .profile {
@@ -109,6 +109,7 @@ p {
 .top-cloud {
   position: absolute;
   right: 300px;
+  margin: 20px 0 0 0;
 }
 
 .top-container {
